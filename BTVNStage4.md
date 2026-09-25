@@ -2,7 +2,7 @@
 
 ## Bước 1. What I Love – Tôi thích điều gì?
 
-| **Tôi thích** | Vì sao tôi thích? | **Tôi thường dành thời gian như thế nào?** |
+| **Tôi thích** | Vì sao tôi thích? | Tôi thường dành thời gian như thế nào? |
 |---|---|---|
 | Công nghệ và máy tính | Tôi thích tìm hiểu cách máy tính và phần mềm hoạt động | Thường xuyên |
 | Học ngoại ngữ | Tôi muốn giao tiếp tốt hơn và có thêm cơ hội học tập, làm việc | 30–60 phút/ngày |
