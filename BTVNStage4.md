@@ -229,3 +229,12 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 |                  | -Hiểu được sự khác biệt giữa bảng chữ cái và IPA |
 | | -Nhận Biết và phát âm các nguyên âm |
 | | -Nhận biết và phát âm các phụ âm |
+| Nhập Môn CNTT | **Hành trình 23 buổi** |
+| | 1-2: tổng quan CNTT và hệ điều hành |
+| | 4-7: terminal và scripting |
+| | 8-9: Markdown và tài liệu KT |
+| | 10-12: office tools và miniproject |
+| | 14-19: Cloud và trình duyệt và bảo mật |
+| | 20-22:troubleshooting và thi cuối môn |
+| Kỹ năng làm việc nhóm | -Thiết lập luật chơi từ ngày đầu
+Thống nhất kỳ vọng và quy ước hành vi ngay từ buổi gặp đầu tiên để phòng ngừa mâu thuẫn ngầm. |
