@@ -236,5 +236,9 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 | | 10-12: office tools và miniproject |
 | | 14-19: Cloud và trình duyệt và bảo mật |
 | | 20-22:troubleshooting và thi cuối môn |
-| Kỹ năng làm việc nhóm | -Thiết lập luật chơi từ ngày đầu
-Thống nhất kỳ vọng và quy ước hành vi ngay từ buổi gặp đầu tiên để phòng ngừa mâu thuẫn ngầm. |
+| Kỹ năng làm việc nhóm | -Thiết lập luật chơi từ ngày đầu:Thống nhất kỳ vọng và quy ước hành vi ngay từ buổi gặp đầu tiên để phòng ngừa mâu thuẫn ngầm. |
+| | - Bốn khối cam kết TWA rõ ràng về kênh giao tiếp, giờ giấc họp nhóm, tiêu chuẩn hạn nộp bài và cơ chế nhắc nhở khi có vi phạm. |
+| | - Linh hoạt cải tiến định kỳ :tạo môi trường an toàn tâm lý để thành viên cùng xem lại và tinh chỉnh quy tắc cho phù hợp với thực tế |
+| | - Gắn kết mục tiêu chung :vượt qua thói quen chia việc ai làm việc nấy; hướng tới kết quả chung và duy trì trách nhiệm kép trong toàn bộ dự án. |
+| | -Bốn vai trò RACI rõ ràng xác định rành mạch Người làm (R), Người chịu trách nhiệm (A), Người tư vấn (C) và Người nhận thông tin (I) cho từng đầu việc. |
+| | -Một chữ A duy nhất:mỗi đầu mối công việc chỉ có duy nhất một người chịu trách nhiệm chính để triệt tiêu tình trạng ỷ lại và đùn đẩ |
