@@ -220,3 +220,11 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 **Cách đo lường:** Mock Test, bài thực hành, số sản phẩm hoàn thành và phản hồi từ bạn bè
 
 **Cách điều chỉnh:** Kiểm tra tiến độ mỗi tuần bằng PDCA và điều chỉnh lịch khi cần thiết
+
+*Báo cáo Chuẩn bị Bài cho các môn học tiếp theo
+
+| Môn học | Kiến Thức |
+|:---|:---|
+| Basic speaking | -Nhận biết và nói bảng chứ cái tiếng Anh |
+
+
