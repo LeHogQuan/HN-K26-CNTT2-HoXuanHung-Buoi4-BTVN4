@@ -227,4 +227,5 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 |:---|:---|
 | Basic speaking | -Nhận biết và nói bảng chứ cái tiếng Anh |
 |                  | -Hiểu được sự khác biệt giữa bảng chữ cái và IPA |
-
+| | -Nhận Biết và phát âm các nguyên âm |
+| | -Nhận biết và phát âm các phụ âm |
