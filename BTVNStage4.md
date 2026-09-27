@@ -226,5 +226,5 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 | Môn học | Kiến Thức |
 |:---|:---|
 | Basic speaking | -Nhận biết và nói bảng chứ cái tiếng Anh |
-                  | -Hiểu được sự khác biệt giữa bảng chữ cái và IPA |
+|                  | -Hiểu được sự khác biệt giữa bảng chữ cái và IPA |
 
