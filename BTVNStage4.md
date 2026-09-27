@@ -243,6 +243,10 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 | | -Bốn vai trò RACI rõ ràng xác định rành mạch Người làm (R), Người chịu trách nhiệm (A), Người tư vấn (C) và Người nhận thông tin (I) cho từng đầu việc. |
 | | -Một chữ A duy nhất:mỗi đầu mối công việc chỉ có duy nhất một người chịu trách nhiệm chính để triệt tiêu tình trạng ỷ lại và đùn đẩ |
 
+3 câu hỏi về bài mới:
+-Bài trả lời tự luận trong kỹ năng hoạt động nhóm em đã ghi các ý đã nêu bên trên và nói đến trong bài nhưng điểm quá thấp và vẫn không dạt, cách giải quyết?
+-Tiếng Anh là học lại từ đầu?
+-Sau này chương trình công nghệ thông tin mình có dạy C++ hay không?
 *Xây dựng quy trình xử lý chủ động cho 3 tình huống: 
 (1) Khi gặp bài tập khó không làm được; 
 (2) Khi bị quá tải deadline/áp lực; 
