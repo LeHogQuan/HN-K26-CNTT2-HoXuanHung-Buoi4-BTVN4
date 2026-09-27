@@ -242,3 +242,43 @@ Tôi sẽ giảm thời gian sử dụng mạng xã hội vào buổi tối và 
 | | - Gắn kết mục tiêu chung :vượt qua thói quen chia việc ai làm việc nấy; hướng tới kết quả chung và duy trì trách nhiệm kép trong toàn bộ dự án. |
 | | -Bốn vai trò RACI rõ ràng xác định rành mạch Người làm (R), Người chịu trách nhiệm (A), Người tư vấn (C) và Người nhận thông tin (I) cho từng đầu việc. |
 | | -Một chữ A duy nhất:mỗi đầu mối công việc chỉ có duy nhất một người chịu trách nhiệm chính để triệt tiêu tình trạng ỷ lại và đùn đẩ |
+
+*Xây dựng quy trình xử lý chủ động cho 3 tình huống: 
+(1) Khi gặp bài tập khó không làm được; 
+(2) Khi bị quá tải deadline/áp lực; 
+(3) Khi làm việc nhóm bị xung đột/không hợp tác.
+
+ quy trình 4 bước: Nhận diện → Xử lý → Trao đổi → Theo dõi như sau:
+
+1. Khi gặp bài tập khó, không làm được
+
+Quy trình:
+
+Xác định vấn đề: Đọc lại đề, xác định chính xác phần kiến thức mình chưa hiểu.
+Tự tìm cách giải: Xem lại bài giảng, giáo trình, ghi chú và thử giải trong một khoảng thời gian nhất định.
+Chủ động hỏi: Nếu vẫn không làm được, hỏi giảng viên, bạn bè hoặc thành viên trong nhóm, kèm theo phần mình đã làm và chỗ đang mắc.
+Ghi lại cách giải: Sau khi được hướng dẫn, tự làm lại để hiểu bản chất và tránh phụ thuộc vào người khác.
+
+→ Mục tiêu: Không bỏ cuộc nhưng cũng không mất quá nhiều thời gian mắc kẹt ở một vấn đề.
+
+2. Khi bị quá tải deadline/áp lực
+
+Quy trình:
+
+Liệt kê tất cả công việc: Ghi rõ deadline, mức độ quan trọng và thời gian cần hoàn thành.
+Ưu tiên: Xử lý những việc quan trọng và gần deadline trước, chia nhiệm vụ lớn thành các phần nhỏ.
+Điều chỉnh kế hoạch: Sắp xếp lại thời gian học và nghỉ, tránh cố làm tất cả cùng lúc.
+Chủ động báo sớm: Nếu nhận thấy không thể hoàn thành đúng hạn, báo cho giảng viên hoặc nhóm càng sớm càng tốt và đề xuất phương án xử lý.
+
+→ Mục tiêu: Kiểm soát công việc thay vì chờ đến khi quá tải mới xử lý.
+
+3. Khi làm việc nhóm bị xung đột/không hợp tác
+
+Quy trình:
+
+Xác định nguyên nhân: Tìm hiểu vấn đề xuất phát từ giao tiếp, phân công công việc, deadline hay bất đồng quan điểm.
+Trao đổi trực tiếp và bình tĩnh: Nói về vấn đề cụ thể, tránh công kích cá nhân hoặc đổ lỗi.
+Thống nhất giải pháp: Phân công lại nhiệm vụ, thống nhất deadline và cách giao tiếp rõ ràng.
+Theo dõi và xử lý tiếp: Kiểm tra tiến độ sau khi thống nhất. Nếu vấn đề nghiêm trọng hoặc kéo dài, báo trưởng nhóm/giảng viên để được hỗ trợ.
+
+→ Mục tiêu: Giải quyết vấn đề dựa trên công việc và giữ được sự hợp tác trong nhóm.
